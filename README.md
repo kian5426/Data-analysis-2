@@ -69,7 +69,7 @@ Cleaning removes 19,283 rows with an unknown construction year (≈6%) and 14,49
 ## Getting started
 
 ```bash
-git clone https://github.com/kian5426/beijing-housing-analysis.git
+git clone https://github.com/kian5426/Data-analysis-2.git
 cd beijing-housing-analysis
 pip install -r requirements.txt
 jupyter lab
