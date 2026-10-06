@@ -1,0 +1,12 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Intermediate data (re-created by running the notebooks in order)
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/districts_df.csv
